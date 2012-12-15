@@ -10,7 +10,7 @@ Fork this repo and send a pull request. Myself and/or other approved TLs will re
 
 ### The Thought Leaders (and the areas in which they lead thoughts)
 
-* [Andy Gross](https://twitter.com/argv0) - Distributed Systems, United 1K Benefits, Dive Bars. 
+* [Andy Gross](https://twitter.com/argv0) - Distributed Systems, United 1K Benefits, Dive Bars, How To Become Relevant.
 * [Chris Meiklejohn](https://twitter.com/cmeik) - GUIs, Ember.js, Mobb Deep, "The Wire" sub-plots.
 * [Dietrich Featherston](https://twitter.com/d2fn) - Persimmons, Lizards, KINGSHIT.
 * [Cliff Moon](https://twitter.com/moonpolysoft) - Databas, The Internet. 
