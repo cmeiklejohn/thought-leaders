@@ -31,3 +31,4 @@ Fork this repo and send a pull request. Myself and/or other approved TLs will re
 * [Jackson Preston-Werner](http://instagram.com/p/SbpOOUp2NV/) - Pull requests, livin' large. 
 * [Tim Anglade](https://twitter.com/timanglade) - NoSQL. 
 * [Peter Bailis](https://twitter.com/pbailis) - Ryan Gosling, The Apache Cassandra™ Jira. 
+* [Sean Carey](https://twitter.com/densoneold) - DLLs, on becoming hyphy, Forrest Gump soundtrack.
